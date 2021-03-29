@@ -1,23 +1,25 @@
-#blog h3, h4, p{
+#stats h3, h4, p{
     text-align: center;
 }
 
 
 
-#blog .contenedor{
-    display: flex;
+#stats .contenedor{
+    align-items: center;
     justify-content: center;
     flex-wrap: wrap;
 }
 
 
-#blog article{
+#stats article{
+    
 margin: 15px;
+align-items: center;
 }
 
 
-#blog img{
-   
+#stats img{
+    align-items: center;
     width: 100%;
     max-width: 280px;
 }
