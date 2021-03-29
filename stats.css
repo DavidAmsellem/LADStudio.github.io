@@ -5,14 +5,14 @@
 
 
 #stats .contenedor{
-    align-items: center;
+    display: flex;
     justify-content: center;
     flex-wrap: wrap;
 }
 
 
 #stats article{
-    
+
 margin: 15px;
 align-items: center;
 }
