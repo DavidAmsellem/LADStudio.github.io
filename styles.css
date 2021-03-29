@@ -48,10 +48,21 @@ header{
 }
 
 
+
+
+
 .LADlogon{
 margin-top: -4px;
 
 }
+
+
+.LADlogon.active{
+    margin-top: -4px;
+    display: none;
+    
+    }
+
 .contenedor{
     width: 98%;
     margin: auto;
