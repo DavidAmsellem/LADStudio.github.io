@@ -8,7 +8,12 @@ window.onscroll = function(){
     console.log(top);
     if (top >= 100){
         headerlad.classList.add('active');
+        
     }else{
         headerlad.classList.remove('active');
+        
     }
 }
+
+
+
