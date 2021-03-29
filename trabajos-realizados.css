@@ -1,0 +1,17 @@
+#trabajos-realizados h3{
+text-align: center;
+padding-bottom: 15px;
+}
+
+#trabajos-realizados .cards{
+
+
+width: 100%;
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+padding-bottom: 1330px;
+}
+
+
+
