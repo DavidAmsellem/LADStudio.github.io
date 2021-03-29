@@ -13,6 +13,15 @@ body{
 }
 
 
+
+.icon-dog{
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.icon-menu{
+    margin-top: 16px;
+}
+
 header{
     width: 100%;
     height: 50px;
