@@ -96,3 +96,19 @@ header label{
     
     
     }
+
+
+    @media (max-width:320px){
+        .menu{
+            position: absolute;
+            
+            top: 58px;
+            left: 0;
+            width: 100%;
+            
+            background: rgba(00, 00,00, 0.9);
+            transition: all 0.5s;
+            transform: translate(+100%);
+        }
+       
+    }
