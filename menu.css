@@ -22,11 +22,13 @@ header label{
 
 .menu a{
     display: block;
-    color: #fff;
+    color: grey;
     height: 50px;
     align-items: center;
     text-align: center;
     text-decoration: none;
+    margin-top: 8px;
+    margin-right: 20px;
     padding: 15px;
     border-bottom: 1px solid rgba(255, 255, 255, 0.5);
 
@@ -40,3 +42,26 @@ header label{
     transform: translate(0%);
 }
 
+@media (min-width:1024px){
+.menu{
+    position: static;
+    width: auto;
+    height: auto;
+    transform: translateX(0);
+    float: right;
+    display: flex;
+    background-color: transparent;
+    color: black;
+
+
+
+    
+    
+}
+
+header label{
+    display: none;
+}
+
+
+}
