@@ -1,6 +1,7 @@
 #stats h3, h4 {
     text-align: center;
-    width: 450px;
+    width: 250px;
+    max-height: 150px;
     margin-bottom: 10px;
     font-size: 18px;
 }
@@ -8,7 +9,8 @@
 #stats p{
     margin-bottom: 30px;
     text-align: center;
-    width: 450px;
+    width: 250px;
+    max-height: 250px;
     font-size: 14px;
 }
 
@@ -32,7 +34,7 @@ align-items: center;
     align-items: center;
     width: 100%;
     max-width: 250px;
-    height: 2%0px;
+    height: 250px;
 
    
 }
