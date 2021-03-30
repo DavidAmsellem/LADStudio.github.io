@@ -12,16 +12,22 @@
 
 #banner .contenedor{
     position: absolute;
-    top: 50%;
+    height: 200px;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     color: #FFF;
     text-align: center;
 }
 
+#banner p{
+    height: -100px;
+    
+}
+
 #banner h2{
 
-    font-size: 20px;
+    font-size: 18px;
+    text-align: center;
 }
 
 

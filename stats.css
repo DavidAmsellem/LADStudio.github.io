@@ -1,7 +1,16 @@
-#stats h3, h4, p{
+#stats h3, h4 {
     text-align: center;
+    width: 450px;
+    margin-bottom: 10px;
+    font-size: 18px;
 }
 
+#stats p{
+    margin-bottom: 30px;
+    text-align: center;
+    width: 450px;
+    font-size: 14px;
+}
 
 
 #stats .contenedor{
@@ -13,14 +22,18 @@
 
 #stats article{
 
-margin: 15px;
+margin: 20px;
 align-items: center;
 }
 
 
 #stats img{
+    justify-content: center;
     align-items: center;
     width: 100%;
+    max-width: 250px;
+    height: 2%0px;
+
    
 }
 

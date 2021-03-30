@@ -1,4 +1,4 @@
-#blog h3, h4, p{
+#blog h2,h3, h4, p{
     text-align: center;
 }
 
@@ -12,7 +12,9 @@
 
 
 #blog article{
-margin: 15px;
+    justify-content: center;
+    margin: 15px;
+
 }
 
 
