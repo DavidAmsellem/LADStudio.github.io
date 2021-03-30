@@ -1,0 +1,14 @@
+#confiado h3{
+    text-align: center;
+}
+
+#confiado .contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#confiado img{
+    width: 100%;
+    height: 100%;
+}
