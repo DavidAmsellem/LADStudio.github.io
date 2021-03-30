@@ -36,7 +36,7 @@ header{
 
 .headerlad{
     margin-left: 20px;
-    margin-top: 10px;
+    
     background-color: transparent;
     transition: all 0.5s;
 }
@@ -50,7 +50,10 @@ header{
 }
 
 
-
+.LAD-logonb img{
+    max-width: 120px;
+    max-height: 100px;
+}
 
 
 .LADlogon{
