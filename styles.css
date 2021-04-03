@@ -65,12 +65,14 @@ header{
 .LAD-logonb img{
     margin-top: 4px;
     margin-left: 21px;
-    max-width: 100px;
+    max-width: 110px;
     max-height: 100px;
 }
 
 
 .LADlogon{
+    max-width: 100px;
+    max-height: 100px;
     margin-left: 20px;
 margin-top: -4px;
 

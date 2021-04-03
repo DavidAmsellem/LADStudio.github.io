@@ -39,16 +39,23 @@ align-items: center;
    
 }
 
-@media (min-width:500px){
+@media (max-width:516px){
 
-#stats h3{
-    margin-top: 50px;
-    font-size: 15px;
-}
-#stats p{
-    font-size: 12px ;
-    font-style: normal;
-}
+    #stats h3, h4 {
+        text-align: center;
+        width: 200px;
+        max-height: 200px;
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+    
+    #stats p{
+        margin-bottom: 30px;
+        text-align: center;
+        width: 200px;
+        max-height: 200px;
+        font-size: 14px;
+    }
 
 #stats  .contenedor{
     margin-top: -26px;
@@ -64,22 +71,26 @@ align-items: center;
     justify-content: center;
     align-items: center;
     width: 100%;
-    max-width: 250px;
-    height: 250px;
+    max-width: 200px;
+    height: 200px;
 }
 #stats article{
 
     margin: 0px;
     align-items: center;
     }
-
+#stats .tusinmuebles{
+    display: none;
 }
+}
+
+
 
 @media (min-width: 700px){
 
     #stats h3{
         margin-top: 50px;
-        font-size: 15px;
+        font-size: 12px;
     }
     #stats p{
         font-size: 12px ;
@@ -127,5 +138,49 @@ align-items: center;
         font-size: 14px;
         font-weight: lighter;
     }
+    #stats .tusinmuebles1{
+        display: none;
+    }
+    }
+
+
+@media (min-width: 518px){
+    #stats h3{
+        margin-top: 50px;
+        font-size: 15px;
+        width: 100%;
+    }
+    #stats p{
+        font-size: 11px ;
+        font-style: normal;
+    }
+    
+    #stats  .contenedor{
+        margin-top: 0px;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        
+        
+    }
+    
+    #stats img{
+        margin-top: 0px;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        max-width: 100px;
+        height: 100px;
+    }
+    #stats article{
+    
+        margin: 0px;
+        align-items: center;
+        }
+    #stats .tusinmuebles{
+        display: none;
+    }
 
 }
+
+
