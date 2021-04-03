@@ -39,7 +39,7 @@ align-items: center;
    
 }
 
-@media (max-width:600px){
+@media (min-width:500px){
 
 #stats h3{
     margin-top: 50px;
