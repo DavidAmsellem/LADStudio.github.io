@@ -72,8 +72,7 @@
         margin-top: -180px;
         margin-left: 10px;}
 
-
-
+    }
 
 
 
@@ -101,7 +100,7 @@
         margin-left: 10px;}
 
 
-
+    }
 
 
 
@@ -134,6 +133,10 @@
         margin-top: -80px;
         margin-left: 10px;}
 
+    }
+
+
+
 
 @media (max-width:650px){
     
@@ -160,6 +163,7 @@
         margin-top: -80px;
         margin-left: 10px;}
 
+    }
 
 
 @media (max-width:450px){
@@ -184,8 +188,6 @@
     }
     #banner p{
         font-size: 11px;
-       
-        margin-bottom: 10px;
-        
+         margin-bottom: 10px;
         margin-top: -25px;
-}
+    }}
