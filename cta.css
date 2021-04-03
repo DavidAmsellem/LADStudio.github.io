@@ -1,17 +1,26 @@
-#cta img{
-    width: 100%;
-    height: 100%;
-}
 
-#cta {
+
+#cta svg{
+    
+    display: block;
+    margin: auto;
     position: relative;
-    width: 100%;
-    height: 100%;
+   
 }
 
 
 
 #cta h3{
-    margin-top: -130px;
-    margin-bottom: 150px;
+    margin-top: -100px;
+    margin-bottom: 300px;
 }
+
+#cta .contenedor1{
+    margin-top: 80px;
+}
+
+#cta .contenedor2{
+    margin-top: -60px;
+}
+
+

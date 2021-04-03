@@ -19,3 +19,28 @@ flex-wrap: wrap;
     width: 200px;
     
 }
+
+
+@media (max-width: 800px){
+
+    #trabajos-realizados img{
+        width: 200px;
+        
+    }
+}    
+
+@media (max-width: 1024px){
+
+    #trabajos-realizados img{
+        width: 250px;
+        
+    }
+}    
+
+@media (max-width: 2024px){
+
+    #trabajos-realizados img{
+        width: 300px;
+        
+    }
+}    
