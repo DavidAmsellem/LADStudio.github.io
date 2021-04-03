@@ -39,14 +39,77 @@ align-items: center;
    
 }
 
-@media (max-width:516px){
+
+
+@media (max-width: 700px){
+
+   
+    
+    }
+
+@media (max-width: 630px){
+
+ 
+    
+    #stats  .contenedor{
+        margin-top: -26px;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        
+        
+    }
+    
+    #stats img{
+        margin-top: -3px;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        max-width: 320px;
+        height: 320px;
+    }
+    #stats article{
+    
+        margin: 0px;
+        align-items: center;
+        
+    
+    }
+    #stats h3, h4 {
+        text-align: center;
+        width: 320px;
+        
+        max-height: 320px;
+        margin-top:  50px;
+        font-size: 16px;
+    }
+    
+    #stats p{
+        margin-bottom: 20px;
+        text-align: center;
+        width: 320px;
+        max-height: 320px;
+        font-size: 14px;
+        font-weight: lighter;
+    }
+    #stats .tusinmuebles{
+        display: none;
+    }
+    }
+
+
+
+
+
+@media (max-width:419px){
 
     #stats h3, h4 {
         text-align: center;
         width: 200px;
         max-height: 200px;
-        margin-bottom: 10px;
-        font-size: 18px;
+        margin-top: 30px;
+        margin-bottom: 4px;
+        font-size: 14px;
     }
     
     #stats p{
@@ -54,7 +117,7 @@ align-items: center;
         text-align: center;
         width: 200px;
         max-height: 200px;
-        font-size: 14px;
+        font-size: 10px;
     }
 
 #stats  .contenedor{
@@ -71,116 +134,18 @@ align-items: center;
     justify-content: center;
     align-items: center;
     width: 100%;
-    max-width: 200px;
-    height: 200px;
+    max-width: 220px;
+    height: 220px;
 }
 #stats article{
 
     margin: 0px;
     align-items: center;
     }
+    
 #stats .tusinmuebles{
     display: none;
 }
-}
-
-
-
-@media (min-width: 700px){
-
-    #stats h3{
-        margin-top: 50px;
-        font-size: 12px;
-    }
-    #stats p{
-        font-size: 12px ;
-        font-style: normal;
-    }
-    
-    #stats  .contenedor{
-        margin-top: -26px;
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-        
-        
-    }
-    
-    #stats img{
-        margin-top: -3px;
-        justify-content: center;
-        align-items: center;
-        width: 100%;
-        max-width: 300px;
-        height: 300px;
-    }
-    #stats article{
-    
-        margin: 0px;
-        align-items: center;
-        
-    
-    }
-    #stats h3, h4 {
-        text-align: center;
-        width: 300px;
-        
-        max-height: 300px;
-        margin-top:  100px;
-        font-size: 16px;
-    }
-    
-    #stats p{
-        margin-bottom: 30px;
-        text-align: center;
-        width: 300px;
-        max-height: 300px;
-        font-size: 14px;
-        font-weight: lighter;
-    }
-    #stats .tusinmuebles1{
-        display: none;
-    }
-    }
-
-
-@media (min-width: 518px){
-    #stats h3{
-        margin-top: 50px;
-        font-size: 15px;
-        width: 100%;
-    }
-    #stats p{
-        font-size: 11px ;
-        font-style: normal;
-    }
-    
-    #stats  .contenedor{
-        margin-top: 0px;
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-        
-        
-    }
-    
-    #stats img{
-        margin-top: 0px;
-        justify-content: center;
-        align-items: center;
-        width: 100%;
-        max-width: 100px;
-        height: 100px;
-    }
-    #stats article{
-    
-        margin: 0px;
-        align-items: center;
-        }
-    #stats .tusinmuebles{
-        display: none;
-    }
-
 }
 
 
