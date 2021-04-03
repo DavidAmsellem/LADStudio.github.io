@@ -36,6 +36,7 @@ justify-content: center;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    opacity: 0.6;
 }
 
 
@@ -44,4 +45,9 @@ justify-content: center;
     
     width: 300px;
     height: 300px;
+}
+
+#encargos {
+    background: rgb(228, 215, 215);
+    padding-top: 50px;
 }

@@ -39,3 +39,38 @@ align-items: center;
    
 }
 
+@media (max-width:600px){
+
+#stats h3{
+    margin-top: 50px;
+    font-size: 15px;
+}
+#stats p{
+    font-size: 12px ;
+    font-style: normal;
+}
+
+#stats  .contenedor{
+    margin-top: -26px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+    
+}
+
+#stats img{
+    margin-top: -3px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 250px;
+    height: 250px;
+}
+#stats article{
+
+    margin: 0px;
+    align-items: center;
+    }
+
+}
