@@ -2,7 +2,7 @@
 #matterport .contenedor{
     margin-left: 0;
     margin-right: 0;
-    width: 100%;
+    
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
@@ -16,11 +16,19 @@
 
 
 #matterport embed{
-width: 100%;
+width: 60%;
 height: 300px;
+
 
 }
 
+#matterport video{
+    width: 100%;
+    display: block;
+    justify-content: center;
+
+
+}
 
 
 
