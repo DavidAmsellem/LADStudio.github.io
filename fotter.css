@@ -1,7 +1,49 @@
-#fotter img{
+
+
+
+
+#fotter .contenedor{
+    position: relative;
+    height: 200px;
     width: 100%;
-    height: 300px;
+}
+
+#fotter .ladlogo{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 5px;
+    margin-top: -140px;
 }
 
 
+#fotter p{
+margin-top: -30px;
+font-family: Helvetica;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 135%;
+/* identical to box height, or 11px */
+
+letter-spacing: -0.01em;
+
+/* White */
+
+color: #FFFFFF;
+
+opacity: 0.5;
+}
+
+
+#fotter img{
+    width: 150px;
+    height: 60px;
+}
+
+
+#fotter .contacto{
+    margin-top: -118px;
+    margin-left: 230px;
+}
 
