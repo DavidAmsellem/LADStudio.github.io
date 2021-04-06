@@ -115,6 +115,9 @@ section{
 
 
 
+
+
+
 @media (max-width:380px){
 
     .LAD-logonb img{
@@ -133,7 +136,17 @@ section{
             
         }
 
-
+        .header{
+            width: 100%;
+            height: 300px;
+            
+            color: black;
+            position: fixed;
+            top: 0;
+            left: 0;
+            z-index: 100;
+            
+        }
 }
 
 
