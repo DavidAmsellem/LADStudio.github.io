@@ -9,6 +9,27 @@
 }
 
 
+#cta .contenedor2{
+    margin-top: -110px;
+}
+
+#cta h3{
+font-family: Helvetica;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 110%;
+/* or 13px */
+
+text-align: center;
+letter-spacing: -0.03em;
+
+/* Black */
+
+color: #23242A;
+    margin-top: -68px;
+    margin-bottom: 150px;
+}
 
 
 
