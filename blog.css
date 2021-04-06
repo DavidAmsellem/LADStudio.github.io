@@ -52,7 +52,7 @@
         text-align: center;
         font-style: normal;
         font-size: 16px;
-        padding-bottom: 100px;
+       
     }
     #blog img{
         margin-top: 0px;
@@ -88,7 +88,7 @@
         text-align: center;
         font-style: normal;
         font-size: 12px;
-        padding-bottom: 50px;
+        
     }
     #blog img{
         margin-top: 0px;
@@ -125,7 +125,7 @@
         text-align: center;
         font-style: normal;
         font-size: 12px;
-        padding-bottom: 50px;
+      
     }
     #blog img{
         margin-top: 0px;
@@ -189,7 +189,7 @@
         text-align: center;
         font-style:normal;
         font-size: 12px;
-        padding-bottom: 10px;
+     
         
     }
     #blog img{
@@ -222,7 +222,7 @@
         text-align: center;
         font-style:normal;
         font-size: 8px;
-        padding-bottom: 10px;
+      
     }
 }
 @media (max-width:380px){
