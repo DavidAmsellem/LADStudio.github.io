@@ -3,22 +3,18 @@
 
 
 #fotter .contenedor{
+    display: block;
+    margin: auto;
     position: relative;
     height: 200px;
     width: 100%;
 }
 
-#fotter .ladlogo{
-    position: absolute;
-    width: 100px;
-    height: 100px;
-    margin-left: 5px;
-    margin-top: -140px;
-}
+
 
 
 #fotter p{
-margin-top: -30px;
+margin-top: 50px;
 font-family: Helvetica;
 font-style: normal;
 font-weight: normal;
@@ -33,17 +29,42 @@ letter-spacing: -0.01em;
 color: #FFFFFF;
 
 opacity: 0.5;
+text-align:center
 }
 
 
 #fotter img{
+    display: block;
+    margin: auto;
+    position: relative;
+    margin-top: -150px;
     width: 150px;
     height: 60px;
+    margin-left: 100px;
+    
+    
 }
 
 
 #fotter .contacto{
-    margin-top: -118px;
-    margin-left: 230px;
+    display: block;
+    margin: auto;
+    position: relative;
+    
+    
 }
 
+
+#fotter .ladlogo{
+    margin-top: -200px;
+}
+
+
+
+#fotter svg{
+    width: 100%;
+}
+
+#fotter .contenedor{
+width: 100%;
+}

@@ -8,7 +8,11 @@
    
 }
 
-
+#cta .contenedor1{
+    position: relative;
+    display: block;
+    margin: auto;
+}
 #cta .contenedor2{
     margin-top: -110px;
 }
