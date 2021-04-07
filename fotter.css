@@ -24,13 +24,14 @@ letter-spacing: -0.01em;
 color: #000000;
 margin-top: -85px;
 opacity: 0.9;
+margin-left: 10px;
 
 }
 
 #fotter h5{
-    display:block;
-    width: 100%;
-    font-family: Helvetica;
+display:block;
+width: 100%;
+font-family: Helvetica;
 font-style: normal;
 font-weight: normal;
 font-size: 8px;
@@ -45,13 +46,14 @@ color: #FFF;
 margin-left: 10px;
 opacity: 0.9;
 margin-top: 30px;
+text-align: center;
 
 }
 
 #fotter h4{
-    width: 100%;
     
-    margin-top: 130px;
+width: 100%;
+margin-top: 130px;
 text-align: center;
 
 
