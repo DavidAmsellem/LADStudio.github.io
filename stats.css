@@ -164,15 +164,42 @@
         #stats h3, h4 {
             text-align: center;
             margin-bottom: 4px;
-            font-size: 20px;
+           
             margin-top: 30px;
+            font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 110%;
+/* or 20px */
+
+text-align: center;
+letter-spacing: -0.045em;
+
+/* Black */
+
+color: #23242A;
         }
         
         #stats p{
             margin-bottom: 50px;
             text-align: center;
-            font-size: 15px;
+          
             align-items: center;
+            font-family: Helvetica;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 120%;
+/* or 17px */
+
+text-align: center;
+letter-spacing: -0.05em;
+
+/* Black */
+
+color: #23242A;
+
             
             
         }
@@ -216,15 +243,41 @@
         #stats h3, h4 {
             text-align: center;
             margin-bottom: 4px;
-            font-size: 14px;
+           
             margin-top: 15px;
+            font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 110%;
+/* or 20px */
+
+text-align: center;
+letter-spacing: -0.045em;
+
+/* Black */
+
+color: #23242A;
         }
         
         #stats p{
             margin-bottom: 20px;
             text-align: center;
-            font-size: 10px;
             align-items: center;
+            font-family: Helvetica;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 120%;
+/* or 17px */
+
+text-align: center;
+letter-spacing: -0.05em;
+
+/* Black */
+
+color: #23242A;
+
             
             
         }
@@ -265,15 +318,43 @@
     #stats h3, h4 {
         text-align: center;
         margin-bottom: 4px;
-        font-size: 14px;
+        
         margin-top: 15px;
+        font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 110%;
+/* or 20px */
+
+text-align: center;
+letter-spacing: -0.045em;
+
+/* Black */
+
+color: #23242A;
+
     }
     
     #stats p{
         margin-bottom: 20px;
         text-align: center;
-        font-size: 10px;
+        
         align-items: center;
+        font-family: Helvetica;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 120%;
+/* or 17px */
+
+text-align: center;
+letter-spacing: -0.05em;
+
+/* Black */
+
+color: #23242A;
+
     }
 
 #stats  .contenedor{
