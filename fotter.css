@@ -1,24 +1,22 @@
 
 
+footer{
+ 
+   
+}
 
 
-#fotter .contenedor{
-    display: block;
-    margin: auto;
-    position: relative;
-    height: 200px;
+#fotter svg{
     width: 100%;
 }
 
 
-
-
 #fotter p{
-margin-top: 50px;
-font-family: Helvetica;
+    width: 100%;
+    font-family: Helvetica;
 font-style: normal;
 font-weight: normal;
-font-size: 10px;
+font-size: 8px;
 line-height: 135%;
 /* identical to box height, or 11px */
 
@@ -29,42 +27,6 @@ letter-spacing: -0.01em;
 color: #FFFFFF;
 
 opacity: 0.5;
-text-align:center
-}
+margin-top: -100px;
 
-
-#fotter img{
-    display: block;
-    margin: auto;
-    position: relative;
-    margin-top: -150px;
-    width: 150px;
-    height: 60px;
-    margin-left: 100px;
-    
-    
-}
-
-
-#fotter .contacto{
-    display: block;
-    margin: auto;
-    position: relative;
-    
-    
-}
-
-
-#fotter .ladlogo{
-    margin-top: -200px;
-}
-
-
-
-#fotter svg{
-    width: 100%;
-}
-
-#fotter .contenedor{
-width: 100%;
 }
