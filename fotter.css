@@ -4,6 +4,7 @@
 
 #fotter svg{
     width: 100%;
+    margin-top: 0px;
 }
 
 
@@ -22,8 +23,28 @@ letter-spacing: -0.01em;
 
 color: #FFFFFF;
 
-opacity: 0.5;
-margin-top: -100px;
+opacity: 0.9;
+margin-top: -130px;
+
+}
+
+#fotter h5{
+    width: 100%;
+    font-family: Helvetica;
+font-style: normal;
+font-weight: normal;
+font-size: 8px;
+line-height: 135%;
+/* identical to box height, or 11px */
+
+letter-spacing: -0.01em;
+
+/* White */
+
+color: #FFFFFF;
+
+opacity: 0.9;
+margin-top: 50px;
 
 }
 
