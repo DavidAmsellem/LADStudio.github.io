@@ -181,14 +181,37 @@
         padding-top: 5px;
         text-align: center;
 
-        font-size: 16px;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 110%;
+        /* or 20px */
+        
+        text-align: center;
+        letter-spacing: -0.045em;
+        
+        /* Black */
+        
+        color: #23242A;
     }
 
     #blog p {
         padding-top: 5px;
         text-align: center;
-        font-style:normal;
-        font-size: 12px;
+        font-family: Helvetica;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 120%;
+/* or 17px */
+
+text-align: center;
+letter-spacing: -0.05em;
+
+/* Black */
+
+color: #23242A;
      
         
     }
@@ -213,15 +236,39 @@
     #blog h2 {
         padding-top: 5px;
         text-align: center;
-        font-size: 13px;
+        
+        font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 110%;
+/* or 20px */
+
+text-align: center;
+letter-spacing: -0.045em;
+
+/* Black */
+
+color: #23242A;
         
     }
 
     #blog p {
         padding-top: 5px;
         text-align: center;
-        font-style:normal;
-        font-size: 8px;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 13px;
+        line-height: 120%;
+        /* or 17px */
+        
+        text-align: center;
+        letter-spacing: -0.05em;
+        
+        /* Black */
+        
+        color: #23242A;
       
     }
 }
@@ -239,15 +286,39 @@
     #blog h2 {
         padding-top: 5px;
         text-align: center;
-        font-size: 13px;
+        
+        font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 110%;
+/* or 20px */
+
+text-align: center;
+letter-spacing: -0.045em;
+
+/* Black */
+
+color: #23242A;
         
     }
 
     #blog p {
         padding-top: 5px;
         text-align: center;
-        font-style:normal;
-        font-size: 8px;
+        font-family: Helvetica;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 120%;
+/* or 17px */
+
+text-align: center;
+letter-spacing: -0.05em;
+
+/* Black */
+
+color: #23242A;
        
     }
 }
