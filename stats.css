@@ -2,7 +2,7 @@
 
    
     
- @media (max-width:4024px){
+ @media (max-width:4024px) {
 
     
     
@@ -32,21 +32,13 @@
     align-items: center;
     }
     
-    
-    #stats1 p{
-        display: none;
-    }
+   
 
 }
 
 
 
-
-
-
-
-
-@media (max-width:500px){
+@media (max-width:4100px) {
 
 
     #stats1 .contenedor{
@@ -63,9 +55,38 @@
         width: 90%;
         height: 90%;
     }
-   
-    #stats .contenedor{
-        display: none;
+        #stats1 .contenedor{
+            display: none;
+        }
+    
+    }
+
+}
+
+
+
+
+@media (max-width:500px) {
+
+
+    #stats1 .contenedor{
+        width: 90%;
+    }
+    #stats1 p{
+        text-align: center;
+        width: 100%;
+    }
+    #stats1 img{
+        margin-top: 10px;
+       
+        
+        width: 90%;
+        height: 90%;
+    }
+       #stats p{
+           display: none;
+       }
+    
     }
 
 }
