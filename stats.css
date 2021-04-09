@@ -2,271 +2,18 @@
 
    
     
+ @media (max-width:4024px){
 
-
-
-
-
-
-    @media (max-width:650px){
-
-        #stats h3, h4 {
-            text-align: center;
-            margin-bottom: 14px;
-            font-size: 30px;
-            margin-top: 50px;
-        }
-        
-        #stats p{
-            margin-bottom: 20px;
-            margin-top: 15px;
-            text-align: center;
-            font-size: 20px;
-            align-items: center;
-            
-            
-        }
-    
-    #stats  .contenedor{
-        
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-        width: 85%;
-        
-        
-    }
-    
-    #stats img{
-        margin-top: -3px;
-        justify-content: center;
-        align-items: center;
-        
-        width: 450px;
-        height: 450px;
-    }
-    #stats article{
-    
-        margin: 0px;
-        align-items: center;
-        }
-        
-        #stats .tusinmuebles{
-            display: none;
-        }
     
     
-    }
-
-
-
-
-
-
-    @media (max-width:647px){
-
-        #stats h3, h4 {
-            text-align: center;
-            margin-bottom: 4px;
-           
-            margin-top: 30px;
-            font-family: Helvetica;
-font-style: normal;
-font-weight: bold;
-font-size: 18px;
-line-height: 110%;
-/* or 20px */
-
-text-align: center;
-letter-spacing: -0.045em;
-
-/* Black */
-
-color: #23242A;
-        }
-        
-        #stats p{
-            margin-bottom: 50px;
-            text-align: center;
-          
-            align-items: center;
-            font-family: Helvetica;
-font-style: normal;
-font-weight: normal;
-font-size: 14px;
-line-height: 120%;
-/* or 17px */
-
-text-align: center;
-letter-spacing: -0.05em;
-
-/* Black */
-
-color: #23242A;
-
-            
-            
-        }
     
-    #stats  .contenedor{
-        
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-        width: 85%;
-        
-        
-    }
-    
-    #stats img{
-        margin-top: -3px;
-        justify-content: center;
-        align-items: center;
-        
-        width: 350px;
-        height: 350px;
-    }
-    #stats article{
-    
-        margin: 0px;
-        align-items: center;
-        }
-        
-        #stats .tusinmuebles{
-            display: none;
-        }
-    
-    
-    }
-
-
-
-
-    @media (max-width:447px){
-
-        #stats h3, h4 {
-            text-align: center;
-            margin-bottom: 4px;
-           
-            margin-top: 15px;
-            font-family: Helvetica;
-font-style: normal;
-font-weight: bold;
-font-size: 18px;
-line-height: 110%;
-/* or 20px */
-
-text-align: center;
-letter-spacing: -0.045em;
-
-/* Black */
-
-color: #23242A;
-        }
-        
-        #stats p{
-            margin-bottom: 20px;
-            text-align: center;
-            align-items: center;
-            font-family: Helvetica;
-font-style: normal;
-font-weight: normal;
-font-size: 14px;
-line-height: 120%;
-/* or 17px */
-
-text-align: center;
-letter-spacing: -0.05em;
-
-/* Black */
-
-color: #23242A;
-
-            
-            
-        }
-    
-    #stats  .contenedor{
-        
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-        width: 95%;
-        
-        
-    }
-    
-    #stats img{
-        margin-top: -3px;
-        justify-content: center;
-        align-items: center;
-        
-        width: 250px;
-        height: 250px;
-    }
-    #stats article{
-    
-        margin: 0px;
-        align-items: center;
-        }
-        
-        #stats .tusinmuebles{
-            display: none;
-        }
-    
-    
-    }
-
-@media (max-width:347px){
-
-    #stats h3, h4 {
-        text-align: center;
-        margin-bottom: 4px;
-        
-        margin-top: 15px;
-        font-family: Helvetica;
-font-style: normal;
-font-weight: bold;
-font-size: 15px;
-line-height: 110%;
-/* or 20px */
-
-text-align: center;
-letter-spacing: -0.045em;
-
-/* Black */
-
-color: #23242A;
-
-    }
-    
-    #stats p{
-        margin-bottom: 20px;
-        text-align: center;
-        
-        align-items: center;
-        font-family: Helvetica;
-font-style: normal;
-font-weight: normal;
-font-size: 12px;
-line-height: 120%;
-/* or 17px */
-
-text-align: center;
-letter-spacing: -0.05em;
-
-/* Black */
-
-color: #23242A;
-
-    }
 
 #stats  .contenedor{
     
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    width: 100%;
+    width: 95%;
     
     
 }
@@ -276,8 +23,8 @@ color: #23242A;
     justify-content: center;
     align-items: center;
     
-    width: 200px;
-    height: 200px;
+    width: 100%;
+    height: 100%;
 }
 #stats article{
 
@@ -285,11 +32,40 @@ color: #23242A;
     align-items: center;
     }
     
-    #stats .tusinmuebles{
+    
+    #stats1 p{
         display: none;
     }
-
 
 }
 
 
+
+
+
+
+
+
+@media (max-width:500px){
+
+
+    #stats1 .contenedor{
+        width: 90%;
+    }
+    #stats1 p{
+        text-align: center;
+        width: 100%;
+    }
+    #stats1 img{
+        margin-top: 10px;
+       
+        
+        width: 90%;
+        height: 90%;
+    }
+   
+    #stats .contenedor{
+        display: none;
+    }
+
+}
