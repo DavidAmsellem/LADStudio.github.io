@@ -10,6 +10,7 @@ width: 100%;
 display: flex;
 justify-content: center;
 flex-wrap: wrap;
+margin: px;
 
 }
 
@@ -17,7 +18,7 @@ flex-wrap: wrap;
 
 #trabajos-realizados img{
     width: 200px;
-    
+    margin: 8px;
 }
 
 
@@ -25,7 +26,7 @@ flex-wrap: wrap;
 
     #trabajos-realizados img{
         width: 200px;
-        
+        margin: 8px;
     }
 }    
 
@@ -41,6 +42,7 @@ flex-wrap: wrap;
 
     #trabajos-realizados img{
         width: 300px;
+        margin: 8px;
         
     }
 }    
