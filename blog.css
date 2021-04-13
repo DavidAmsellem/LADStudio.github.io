@@ -58,6 +58,41 @@
         margin-top: 0px;
         width: 100%;
         max-width: 370px;
+        
+
+}
+@media (max-width:1424px){
+ 
+   
+
+    #blog .contenedor{
+        margin-top: 120px;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    #blog h2 {
+        padding-top: 70px;
+        text-align: center;
+        margin-right: 5px;
+        margin-left: 20px;
+        font-size: 22px;
+    }
+
+    #blog p {
+        padding-top: 4px;
+        text-align: center;
+        font-style: normal;
+        font-size: 18px;
+       
+    }
+    #blog img{
+        margin-top: 0px;
+        width: 100%;
+        max-width: 470px;
+        margin-bottom: -220px;
+        
 
 }
 }

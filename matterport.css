@@ -21,11 +21,12 @@
     width: 100%;
     display: block;
     justify-content: center;
+    
 
 
 }
 
-@media (max-width:1124px){
+@media (max-width:1424px){
     #matterport article{
         width: 80%;
         
@@ -33,15 +34,22 @@
         }
     
    
-    
+        #matterport video{
+            width: 100%;
+            display: block;
+            justify-content: center;
+            height: 500px;
+            margin-bottom: 100px;
+            margin-top: -880px;
+        
+        
+        }
 
     
 #matterport .contenedor2{
     margin: auto;
-    width: 90%;
+    width: 100%;
     height: auto;
-    margin-top: 100px;
-    
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
