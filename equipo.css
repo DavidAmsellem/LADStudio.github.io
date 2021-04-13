@@ -1,7 +1,9 @@
 
 
-    #equipo h1{
+    #equipo h2{
         text-align: center;
+        margin-top: 70px;
+        margin-bottom: -70px;
     }
 
     #equipo .contenedor{

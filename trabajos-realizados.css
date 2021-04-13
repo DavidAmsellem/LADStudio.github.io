@@ -33,16 +33,25 @@ margin: px;
 @media (max-width: 1024px){
 
     #trabajos-realizados img{
-        width: 250px;
+        width: 450px;
         
     }
 }    
 
-@media (max-width: 2024px){
+@media (max-width: 1920px){
 
     #trabajos-realizados img{
-        width: 300px;
+        width: 450px;
         margin: 8px;
         
     }
 }    
+
+@media (max-width: 2920px){
+
+    #trabajos-realizados img{
+        width: 500px;
+        margin: 8px;
+        
+    }
+}  

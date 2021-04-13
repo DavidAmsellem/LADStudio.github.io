@@ -60,7 +60,7 @@
         max-width: 370px;
         
 
-}
+}}
 @media (max-width:1424px){
  
    
@@ -97,7 +97,7 @@
 }
 }
 
-@media (max-width:1024px){
+@media (max-width:1062px){
     #blog img{
         max-width: 280px;
         max-height: 280px;
@@ -134,41 +134,7 @@
 }
 
 
-@media (max-width:1024px){
-    #blog img{
-        max-width: 280px;
-        max-height: 280px;
-    }
-   
 
-    #blog .contenedor{
-        margin-top: 60px;
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-    }
-
-    #blog h2 {
-        padding-top: 70px;
-        text-align: center;
-        margin-right: 5px;
-        font-size: 18px;
-    }
-
-    #blog p {
-        padding-top: 4px;
-        text-align: center;
-        font-style: normal;
-        font-size: 12px;
-      
-    }
-    #blog img{
-        margin-top: 0px;
-        width: 100%;
-        max-width: 370px;
-
-}
-}
 
 @media (max-width:900px){
     #blog img{
@@ -189,6 +155,7 @@
         text-align: center;
 
         font-size: 22px;
+        margin-top: 250px;
     }
 
     #blog p {
@@ -196,7 +163,8 @@
         text-align: center;
         font-style: normal;
         font-size: 12px;
-        padding-bottom: 50px;
+        margin-top: 10px;
+        margin-bottom: -300px;
     }
     #blog img{
         margin-top: 0px;
@@ -210,6 +178,7 @@
     #blog .contenedor{
         margin-top: -10px;
         margin-left: 10px;
+        margin-bottom: -120px;
     }
 
     #blog h2 {
@@ -264,6 +233,7 @@ color: #23242A;
         align-items: center;
         width: 98%;
         margin-left: 15px;
+        margin-bottom: -120px;
         
     }
 
@@ -307,6 +277,8 @@ color: #23242A;
       
     }
 }
+
+
 @media (max-width:380px){
 
     #blog .contenedor{
@@ -314,6 +286,7 @@ color: #23242A;
         align-items: center;
         width: 98%;
         margin-left: 5px;
+        
         
     }
 
@@ -345,6 +318,59 @@ color: #23242A;
 font-style: normal;
 font-weight: normal;
 font-size: 10px;
+line-height: 120%;
+/* or 17px */
+
+text-align: center;
+letter-spacing: -0.05em;
+
+/* Black */
+
+color: #23242A;
+       
+    }
+}
+
+
+@media (max-width:320px){
+
+    #blog .contenedor{
+        justify-content: center;
+        align-items: center;
+        width: 98%;
+        margin-left: 5px;
+        margin-bottom: -200px;
+        
+    }
+
+
+    #blog h2 {
+        padding-top: 5px;
+        text-align: center;
+        
+        font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 110%;
+/* or 20px */
+
+text-align: center;
+letter-spacing: -0.045em;
+
+/* Black */
+
+color: #23242A;
+        
+    }
+
+    #blog p {
+        padding-top: 5px;
+        text-align: center;
+        font-family: Helvetica;
+font-style: normal;
+font-weight: normal;
+font-size: 8px;
 line-height: 120%;
 /* or 17px */
 

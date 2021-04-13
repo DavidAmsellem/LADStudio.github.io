@@ -55,3 +55,30 @@ margin-bottom: 20px;
     background: rgba(218, 218, 218, 0.521);
     padding-top: 50px;
 }
+
+
+
+
+@media (max-width: 620px){
+
+    #encargos img{
+    
+        width: 300px;
+        height: auto;
+        
+    }
+
+}
+
+
+
+@media (max-width: 1424px){
+
+    #encargos img{
+    
+        width: 400px;
+        height: auto;
+        
+    }
+
+}
