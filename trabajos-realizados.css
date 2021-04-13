@@ -1,6 +1,8 @@
 #trabajos-realizados h3{
 text-align: center;
 padding-bottom: 15px;
+margin-top: 30px;
+margin-bottom: 20px;
 }
 
 #trabajos-realizados .cards{
@@ -10,48 +12,17 @@ width: 100%;
 display: flex;
 justify-content: center;
 flex-wrap: wrap;
-margin: px;
+
 
 }
-
-
 
 #trabajos-realizados img{
-    width: 200px;
-    margin: 8px;
+       
+    width: 95%;
+    
 }
 
 
-@media (max-width: 800px){
-
-    #trabajos-realizados img{
-        width: 200px;
-        margin: 8px;
-    }
-}    
-
-@media (max-width: 1024px){
-
-    #trabajos-realizados img{
-        width: 450px;
-        
-    }
-}    
-
-@media (max-width: 1920px){
-
-    #trabajos-realizados img{
-        width: 450px;
-        margin: 8px;
-        
-    }
-}    
-
-@media (max-width: 2920px){
-
-    #trabajos-realizados img{
-        width: 500px;
-        margin: 8px;
-        
-    }
-}  
+#trabajos-realizados p{
+    text-align: center;
+}
