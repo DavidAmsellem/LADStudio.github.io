@@ -283,6 +283,29 @@
         align-items: center;
         justify-content: center;
         flex-wrap: wrap;
-        margin-bottom: -300px;
+        margin-bottom: -318px;
+        }
+} 
+
+@media (max-width:350px){
+    #matterport article{
+        width: 100%;
+        align-items: center;
+      
+    }
+
+    #matterport svg{
+        width: 0%;
+        margin-top: -50px;
+    }
+
+
+     #matterport .contenedor2{
+        margin-left: 0;
+        margin-right: 0;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin-bottom: -340px;
         }
 }    
