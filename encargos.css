@@ -59,7 +59,41 @@ margin-bottom: 20px;
 
 
 
+@media (max-width: 1924px){
 
+    #encargos img{
+    
+        width: 500px;
+        height: auto;
+        
+    }
+    #encargos h3{
+        font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 110%;
+    text-align: center;
+    letter-spacing: -0.045em;
+    
+    }
+    
+    
+    
+    #encargos h4{
+        display: block;
+        margin: auto;
+        font-size: 24px;
+        line-height: 120%;
+        font-family: Helvetica;
+        text-align: center;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+    justify-content: center;
+    margin-bottom: 20px;
+    }
+
+}
 
 
 @media (max-width: 1424px){
@@ -69,6 +103,32 @@ margin-bottom: 20px;
         width: 400px;
         height: auto;
         
+    }
+    #encargos h3{
+        font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 110%;
+    text-align: center;
+    letter-spacing: -0.045em;
+    margin-top: 50px;
+    
+    }
+    
+    
+    
+    #encargos h4{
+        display: block;
+        margin: auto;
+        font-size: 20px;
+        line-height: 120%;
+        font-family: Helvetica;
+        text-align: center;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+    justify-content: center;
+    margin-bottom: 20px;
     }
 
 }
